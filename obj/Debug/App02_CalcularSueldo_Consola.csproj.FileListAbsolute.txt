@@ -1,0 +1,7 @@
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\bin\Debug\App02_CalcularSueldo_Consola.exe.config
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\bin\Debug\App02_CalcularSueldo_Consola.exe
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\bin\Debug\App02_CalcularSueldo_Consola.pdb
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\obj\Debug\App02_CalcularSueldo_Consola.csprojAssemblyReference.cache
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\obj\Debug\App02_CalcularSueldo_Consola.csproj.CoreCompileInputs.cache
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\obj\Debug\App02_CalcularSueldo_Consola.exe
+D:\Proyectos\c#\App02_CalcularSueldo_Consola\obj\Debug\App02_CalcularSueldo_Consola.pdb
